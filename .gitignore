@@ -1,0 +1,60 @@
+# Sublime Project Files #
+#########################
+*.sublime-project
+*.sublime-workspace
+
+index.php
+includes/connection.inc.php
+includes/classes/FetchCampaign.php
+includes/classes/UpdateCampaign.php
+js/broken.main.js
+js/*dev-ck.js
+
+reference/
+
+# Compiled Source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages #
+############
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and Databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# OS Generated Files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# Files #
+######################
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.ico
+*.psd
+*.ai
